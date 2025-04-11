@@ -1,0 +1,31 @@
+version: "3.9"
+
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: calculadora_sqlserver
+    environment:
+      SA_PASSWORD: "S!nqia#10042025"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Developer"
+    ports:
+      - "1435:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    networks:
+      - sqia-network
+
+  api:
+    build:
+      context: .
+      dockerfile: Sinqia.CalculadoraSQIA/Dockerfile
+    ports:
+      - "5000:80"
+    networks:
+      - sqia-network
+
+volumes:
+  sql_data:
+
+networks:
+  sqia-network:

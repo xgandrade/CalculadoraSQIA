@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71BBD236-4ABA-4980-9DDA-B9397AC45317}|Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Api.csproj|e:\\entrevistas\\sinqia\\sinqia.calculadorasqia\\sinqia.calculadorasqia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71BBD236-4ABA-4980-9DDA-B9397AC45317}|Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Api.csproj|solutionrelative:sinqia.calculadorasqia\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BBD236-4ABA-4980-9DDA-B9397AC45317}|Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Api.csproj|e:\\entrevistas\\sinqia\\sinqia.calculadorasqia\\sinqia.calculadorasqia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71BBD236-4ABA-4980-9DDA-B9397AC45317}|Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Api.csproj|solutionrelative:sinqia.calculadorasqia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A3FFBD-507F-49E8-8031-E150BFB4C363}|Sinqia.CalculadoraSQIA.Domain\\Sinqia.CalculadoraSQIA.Domain.csproj|e:\\entrevistas\\sinqia\\sinqia.calculadorasqia\\sinqia.calculadorasqia.domain\\servicos\\calculofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A3FFBD-507F-49E8-8031-E150BFB4C363}|Sinqia.CalculadoraSQIA.Domain\\Sinqia.CalculadoraSQIA.Domain.csproj|solutionrelative:sinqia.calculadorasqia.domain\\servicos\\calculofinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128BBD6-3005-4AAF-9BC1-C6145853EBA7}|Sinqia.CalculadoraSQIA.Application\\Sinqia.CalculadoraSQIA.Application.csproj|e:\\entrevistas\\sinqia\\sinqia.calculadorasqia\\sinqia.calculadorasqia.application\\servicos\\implementacoes\\calcularsaldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128BBD6-3005-4AAF-9BC1-C6145853EBA7}|Sinqia.CalculadoraSQIA.Application\\Sinqia.CalculadoraSQIA.Application.csproj|solutionrelative:sinqia.calculadorasqia.application\\servicos\\implementacoes\\calcularsaldoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BBD236-4ABA-4980-9DDA-B9397AC45317}|Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Api.csproj|e:\\entrevistas\\sinqia\\sinqia.calculadorasqia\\sinqia.calculadorasqia\\controllers\\v1\\investimentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BBD236-4ABA-4980-9DDA-B9397AC45317}|Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Api.csproj|solutionrelative:sinqia.calculadorasqia\\controllers\\v1\\investimentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37A3FFBD-507F-49E8-8031-E150BFB4C363}|Sinqia.CalculadoraSQIA.Domain\\Sinqia.CalculadoraSQIA.Domain.csproj|e:\\entrevistas\\sinqia\\sinqia.calculadorasqia\\sinqia.calculadorasqia.domain\\entidades\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37A3FFBD-507F-49E8-8031-E150BFB4C363}|Sinqia.CalculadoraSQIA.Domain\\Sinqia.CalculadoraSQIA.Domain.csproj|solutionrelative:sinqia.calculadorasqia.domain\\entidades\\cotacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Sinqia.CalculadoraSQIA\\appsettings.Development.json",
+              "ToolTip": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA\\appsettings.Development.json",
+              "RelativeToolTip": "Sinqia.CalculadoraSQIA\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T02:26:26.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA\\appsettings.json",
+              "RelativeDocumentMoniker": "Sinqia.CalculadoraSQIA\\appsettings.json",
+              "ToolTip": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA\\appsettings.json",
+              "RelativeToolTip": "Sinqia.CalculadoraSQIA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T02:26:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculoFinanceiro.cs",
+              "DocumentMoniker": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Domain\\Servicos\\CalculoFinanceiro.cs",
+              "RelativeDocumentMoniker": "Sinqia.CalculadoraSQIA.Domain\\Servicos\\CalculoFinanceiro.cs",
+              "ToolTip": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Domain\\Servicos\\CalculoFinanceiro.cs",
+              "RelativeToolTip": "Sinqia.CalculadoraSQIA.Domain\\Servicos\\CalculoFinanceiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:20:14.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalcularSaldoService.cs",
+              "DocumentMoniker": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Application\\Servicos\\Implementacoes\\CalcularSaldoService.cs",
+              "RelativeDocumentMoniker": "Sinqia.CalculadoraSQIA.Application\\Servicos\\Implementacoes\\CalcularSaldoService.cs",
+              "ToolTip": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Application\\Servicos\\Implementacoes\\CalcularSaldoService.cs",
+              "RelativeToolTip": "Sinqia.CalculadoraSQIA.Application\\Servicos\\Implementacoes\\CalcularSaldoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:19:22.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cotacao.cs",
+              "DocumentMoniker": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Domain\\Entidades\\Cotacao.cs",
+              "RelativeDocumentMoniker": "Sinqia.CalculadoraSQIA.Domain\\Entidades\\Cotacao.cs",
+              "ToolTip": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA.Domain\\Entidades\\Cotacao.cs",
+              "RelativeToolTip": "Sinqia.CalculadoraSQIA.Domain\\Entidades\\Cotacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:18:38.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvestimentosController.cs",
+              "DocumentMoniker": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA\\Controllers\\V1\\InvestimentosController.cs",
+              "RelativeDocumentMoniker": "Sinqia.CalculadoraSQIA\\Controllers\\V1\\InvestimentosController.cs",
+              "ToolTip": "E:\\Entrevistas\\SINQIA\\Sinqia.CalculadoraSQIA\\Sinqia.CalculadoraSQIA\\Controllers\\V1\\InvestimentosController.cs",
+              "RelativeToolTip": "Sinqia.CalculadoraSQIA\\Controllers\\V1\\InvestimentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:17:33.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinqia.CalculadoraSQIA.Api", "Sinqia.CalculadoraSQIA\Sinqia.CalculadoraSQIA.Api.csproj", "{71BBD236-4ABA-4980-9DDA-B9397AC45317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinqia.CalculadoraSQIA.Application", "Sinqia.CalculadoraSQIA.Application\Sinqia.CalculadoraSQIA.Application.csproj", "{6128BBD6-3005-4AAF-9BC1-C6145853EBA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinqia.CalculadoraSQIA.Infrastructure", "Sinqia.CalculadoraSQIA.Infrastructure\Sinqia.CalculadoraSQIA.Infrastructure.csproj", "{96146BC9-3BAB-42C8-910E-B2AAA265C953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinqia.CalculadoraSQIA.Tests", "Sinqia.CalculadoraSQIA.Tests\Sinqia.CalculadoraSQIA.Tests.csproj", "{7E733C65-02AA-417B-A4BA-C468F52FB5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinqia.CalculadoraSQIA.Domain", "Sinqia.CalculadoraSQIA.Domain\Sinqia.CalculadoraSQIA.Domain.csproj", "{37A3FFBD-507F-49E8-8031-E150BFB4C363}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C542AD45-2465-48D6-AC6B-4D048EF6963A}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+		docker-compose.yml = docker-compose.yml
+		Sinqia.CalculadoraSQIA\Dockerfile = Sinqia.CalculadoraSQIA\Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BBD236-4ABA-4980-9DDA-B9397AC45317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BBD236-4ABA-4980-9DDA-B9397AC45317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BBD236-4ABA-4980-9DDA-B9397AC45317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BBD236-4ABA-4980-9DDA-B9397AC45317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6128BBD6-3005-4AAF-9BC1-C6145853EBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6128BBD6-3005-4AAF-9BC1-C6145853EBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6128BBD6-3005-4AAF-9BC1-C6145853EBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6128BBD6-3005-4AAF-9BC1-C6145853EBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96146BC9-3BAB-42C8-910E-B2AAA265C953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96146BC9-3BAB-42C8-910E-B2AAA265C953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96146BC9-3BAB-42C8-910E-B2AAA265C953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96146BC9-3BAB-42C8-910E-B2AAA265C953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E733C65-02AA-417B-A4BA-C468F52FB5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E733C65-02AA-417B-A4BA-C468F52FB5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E733C65-02AA-417B-A4BA-C468F52FB5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E733C65-02AA-417B-A4BA-C468F52FB5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A3FFBD-507F-49E8-8031-E150BFB4C363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A3FFBD-507F-49E8-8031-E150BFB4C363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A3FFBD-507F-49E8-8031-E150BFB4C363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A3FFBD-507F-49E8-8031-E150BFB4C363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
