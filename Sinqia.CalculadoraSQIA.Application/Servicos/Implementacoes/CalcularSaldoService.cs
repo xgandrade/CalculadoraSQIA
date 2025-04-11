@@ -21,12 +21,12 @@ namespace Sinqia.CalculadoraSQIA.Application.Servicos.Implementacoes
                 investimento.DataFinal
             );
 
-            var taxaAcumulada = CalculoFinanceiro.CalcularFatorAcumulado(cotacoes);
-            var valorAtualizado = CalculoFinanceiro.CalcularValorAtualizado(investimento.ValorInvestido, taxaAcumulada);
+            var fatorAcumulado = CalculoFinanceiro.CalcularFatorAcumulado(cotacoes);
+            var valorAtualizado = CalculoFinanceiro.CalcularValorAtualizado(investimento.ValorInvestido, fatorAcumulado);
 
             return new InvestimentoPosFixadoOutputModel
             {
-                TaxaAcumulada = taxaAcumulada,
+                FatorAcumulado = fatorAcumulado,
                 ValorAtualizado = valorAtualizado
             };
         }

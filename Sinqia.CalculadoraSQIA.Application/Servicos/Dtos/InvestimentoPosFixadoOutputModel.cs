@@ -9,6 +9,6 @@ namespace Sinqia.CalculadoraSQIA.Application.Servicos.Dtos
     public class InvestimentoPosFixadoOutputModel
     {
         public decimal ValorAtualizado { get; set; }
-        public decimal TaxaAcumulada { get; set; }
+        public decimal FatorAcumulado { get; set; }
     }
 }
