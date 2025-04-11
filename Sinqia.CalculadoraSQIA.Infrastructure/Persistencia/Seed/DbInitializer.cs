@@ -17,5 +17,4 @@ namespace Sinqia.CalculadoraSQIA.Infrastructure.Persistencia.Seed
             }
         }
     }
-
 }

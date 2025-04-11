@@ -2,17 +2,13 @@
 using Sinqia.CalculadoraSQIA.Domain.Entidades;
 using Sinqia.CalculadoraSQIA.Infrastructure.Persistencia.Contexto;
 using Sinqia.CalculadoraSQIA.Infrastructure.Persistencia.Repositories.Interfaces;
+using System;
 
 namespace Sinqia.CalculadoraSQIA.Infrastructure.Persistencia.Repositories.Implementacoes
 {
-    public class CotacaoRepository : ICotacaoRepository
+    public class CotacaoRepository(CalculadoraDbContext context) : ICotacaoRepository
     {
-        private readonly CalculadoraDbContext _context;
-
-        public CotacaoRepository(CalculadoraDbContext context)
-        {
-            _context = context;
-        }
+        private readonly CalculadoraDbContext _context = context;
 
         bool IsDiaUtil(DateTime data) => data.DayOfWeek != DayOfWeek.Saturday && data.DayOfWeek != DayOfWeek.Sunday;
 
