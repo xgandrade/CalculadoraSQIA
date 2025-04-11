@@ -1,6 +1,9 @@
+using FluentValidation.AspNetCore;
+using Microsoft.EntityFrameworkCore;
+using Sinqia.CalculadoraSQIA.Api.Filters;
+using Sinqia.CalculadoraSQIA.Api.Validators;
 using Sinqia.CalculadoraSQIA.Application.Extensions;
 using Sinqia.CalculadoraSQIA.Infrastructure.Extensions;
-using Microsoft.EntityFrameworkCore;
 using Sinqia.CalculadoraSQIA.Infrastructure.Persistencia.Contexto;
 using Sinqia.CalculadoraSQIA.Infrastructure.Persistencia.Seed;
 
@@ -12,7 +15,10 @@ builder.Services.AddDbContext<CalculadoraDbContext>(options =>
     options.UseSqlServer(dbConnectionString);
 });
 
-builder.Services.AddControllers();
+builder.Services
+    .AddControllers(opt => opt.Filters.Add(typeof(ValidadorFiltro)))
+    .AddFluentValidation(config => config.RegisterValidatorsFromAssemblyContaining<InvestimentoPosFixadoInputModelValidator>());
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

@@ -24,6 +24,9 @@ namespace Sinqia.CalculadoraSQIA.Application.Servicos.Implementacoes
                 investimento.DataFinal
             );
 
+            if (!cotacoes.Any())
+                throw new InvalidOperationException("Não foram encontradas cotações no período informado.");
+
             var fatorAcumulado = CalcularFatorAcumulado(cotacoes);
             var valorAtualizado = CalcularValorAtualizado(investimento.ValorInvestido, fatorAcumulado);
 
