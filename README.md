@@ -25,8 +25,8 @@ Permite calcular, com base em uma data inicial, data final e valor investido:
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/calculadora-sqia.git
-cd calculadora-sqia
+git clone git@github.com:xgandrade/CalculadoraSQIA.git
+cd CalculadoraSQIA
 ```
 
 ### Subindo os containers
@@ -59,7 +59,7 @@ Acesse: [https://localhost:5000/swagger](https://localhost:5000/swagger)
 
 ## 📌 Exemplo de uso (Swagger)
 
-**Endpoint**: `POST /v1/investimentos/calcular`
+**Endpoint**: `POST /api/investimentos/pos-fixado`
 
 **Body de exemplo**:
 
